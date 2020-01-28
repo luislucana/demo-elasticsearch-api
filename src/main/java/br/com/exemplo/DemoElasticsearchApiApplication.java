@@ -1,4 +1,4 @@
-package br.com.exemplo.demoelasticsearchapi;
+package br.com.exemplo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
